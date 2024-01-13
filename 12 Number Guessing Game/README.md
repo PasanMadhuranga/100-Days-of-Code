@@ -1,4 +1,4 @@
-# RNumber Guessing Game
+# Number Guessing Game
 
 ## Introduction
 The Number Guessing Game is a simple yet engaging Python script that challenges players to guess a randomly generated number within a certain number of attempts. The game offers two difficulty levels, affecting the number of guesses allowed. It's a great way to test one's intuition and guessing skills.
