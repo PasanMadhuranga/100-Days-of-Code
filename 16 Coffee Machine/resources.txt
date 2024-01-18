@@ -1,0 +1,3 @@
+Water,100.0
+Milk,50.0
+Coffee,76.0
