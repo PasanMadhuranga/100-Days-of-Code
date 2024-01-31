@@ -24,9 +24,14 @@ No additional installation is required apart from Python and its built-in Turtle
 4. **Race Results**: After a turtle crosses the finish line, the game announces the winning turtle and whether the player won or lost the bet.
 
 ## Screenshots
-![User Bet Prompt](screenshots/prompt.png)
-![Turtle Race Start](screenshots/race.png)
-![Race Outcome](screenshots/outcome.png)
+### User Prompt
+<img src="screenshots/prompt.png" alt="drawing" width="400"/>
+
+### Race
+<img src="screenshots/race.png" alt="drawing" width="400"/>
+
+### Race Outcome
+<img src="screenshots/outcome.png" alt="drawing" width="400"/>
 
 ## Contributing
 Feel free to fork the project and contribute by adding new features, such as different race lengths, betting systems, or additional graphical enhancements. Please ensure your pull requests are well-documented.
