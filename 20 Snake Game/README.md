@@ -50,10 +50,10 @@ Eat the blue food that appears on the screen to grow your snake and earn points.
 
 Here are some glimpses of the Snake Game in action:
 
-![Initial Game Screen](screenshots/gameplay.png)  
+![Initial Game Screen](screenshots/game_play.png)  
 *Initial game screen with snake and food*
 
-![Game Over Screen](screenshots/gameover.png)  
+![Game Over Screen](screenshots/game_over.png)  
 *Game over screen with score display and play again prompt*
 
 Replace `path-to-your-screenshot-file` with the actual path to your screenshot files. If your README is hosted on a platform like GitHub, you can upload the images to your repository and link them directly.
