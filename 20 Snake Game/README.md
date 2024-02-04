@@ -54,7 +54,7 @@ Here are some glimpses of the Snake Game in action:
 *Initial game screen with snake and food*
 
 ![Game Over Screen](screenshots/game_over.png)  
-*Game over screen with score display and play again prompt*
+*Game over screen with play again prompt*
 
 Replace `path-to-your-screenshot-file` with the actual path to your screenshot files. If your README is hosted on a platform like GitHub, you can upload the images to your repository and link them directly.
 
@@ -67,11 +67,3 @@ If you'd like to contribute to the Snake Game, please fork the repository and cr
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-This `README` provides a clear and concise description of your project and how to run it. It also includes placeholders for screenshots, which are crucial for visualizing the game. Remember to replace placeholder text with actual paths or URLs to the screenshots before finalizing the README.
