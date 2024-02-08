@@ -35,9 +35,3 @@ No additional installation is required apart from Python and its built-in Turtle
 
 ## Contributing
 Contributions to improve the game are welcome. Ideas include adding a winning condition, creating a single-player mode against a computer opponent, or introducing additional game mechanics. Please ensure your code is well-documented and tested.
-
-This project is freely available for all to use and is distributed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
-
-This README provides all the necessary information for understanding, installing, and playing the "Pong Game". Note that the path to the screenshot in the README will need to be updated to the actual file path where the image is stored.
