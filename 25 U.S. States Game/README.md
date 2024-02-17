@@ -27,7 +27,7 @@ The "U.S. States Game" is an educational Python game designed to help players le
 5. **End Game**: The game ends when all 50 states are correctly guessed or when the player decides to stop.
 
 ## Screenshot
-![U.S. States Game Gameplay](/screenshots/gameplay.png)
+![U.S. States Game Gameplay](screenshots/gameplay.png)
 
 ## File Structure
 - `main.py`: The main script for running the game.
