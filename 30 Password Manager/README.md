@@ -33,21 +33,6 @@ Password Manager is a secure and user-friendly application built with Python's T
 5. **Data Persistence**: All data is saved in `data.json` and persists between sessions.
 
 ## Screenshots
-
-<img src="screenshots/adding_a_password.png" style="width: 50%;" alt="Adding a Password">
-
-<img src="screenshots/searching_a_password.png" style="width: 50%;" alt="Searching a Password">
-
-<p align="center">
-  <img src="screenshots/adding_a_password.png" alt="Adding a Password" style="width: 45%;"/>
-  <img src="screenshots/searching_a_password.png" alt="Searching a Password" style="width: 45%;"/>
-</p>
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div><img src="screenshots/adding_a_password.png" alt="Adding a Password" style="width: 50%;"></div>
-  <div><img src="screenshots/searching_a_password.png" alt="Searching a Password" style="width: 50%;"></div>
-</div>
-
 <table>
   <tr>
     <td>
