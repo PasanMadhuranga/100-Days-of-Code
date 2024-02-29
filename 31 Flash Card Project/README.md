@@ -27,8 +27,16 @@ The Flash Card Project is a language learning tool designed to assist with vocab
 5. **Data Storage**: The list of words to learn is stored in `data/words_to_learn.csv`, automatically excluding known words.
 
 ## Screenshots
-![French Word Example](screenshots/French.png)
-![English Translation Example](screenshots/English.png)
+<table>
+  <tr>
+    <td>
+      <img src="screenshots/French.png" alt="French Word Example" style="width: 100%;">
+    </td>
+    <td>
+      <img src="screenshots/English.png" alt="English Translation Example" style="width: 100%;">
+    </td>
+  </tr>
+</table>
 
 ## File Structure
 - `main.py`: The main application script with logic for the flashcard functionality.
