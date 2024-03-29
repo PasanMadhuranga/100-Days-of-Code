@@ -1,15 +1,3 @@
-Certainly! Below is a complete README for the "Tic Tac Toe" project. To add the screenshots to the README file, you will typically use markdown to link the images from where they are hosted. If you host the images on a service like GitHub or an image hosting service, you can include them using the Markdown image syntax:
-
-```markdown
-![Draw](link-to-draw-image)
-![You Lose](link-to-lose-image)
-![You Win](link-to-win-image)
-```
-
-Now, for the README content:
-
----
-
 # Tic Tac Toe
 
 ## Introduction
@@ -28,8 +16,11 @@ The game is played on a grid that's 3 squares by 3 squares. Player one is 'X', a
 - Color-coded game status updates.
 
 ## Screenshots
+### Win
 ![You Win](screenshots/win.png)
+### Lose
 ![You Lose](screenshots/lose.png)
+### Draw
 ![Draw](screenshots/draw.png)
 
 ## How to Play
